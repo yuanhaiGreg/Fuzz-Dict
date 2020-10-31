@@ -31,3 +31,5 @@ upimages
 upimage
 flashUP
 key
+pcimg
+phoneimg
