@@ -34,3 +34,4 @@ key
 pcimg
 phoneimg
 strFile
+uploadForm
