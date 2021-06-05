@@ -35,3 +35,15 @@ pcimg
 phoneimg
 strFile
 uploadForm
+MicroWebsiteIndex
+Code
+Output
+imgLegal1
+picture
+photo
+upphoto
+photo1
+fileBlank
+fileFixture
+filename
+WeiXin
