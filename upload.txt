@@ -47,3 +47,4 @@ fileBlank
 fileFixture
 filename
 WeiXin
+fileUploader
