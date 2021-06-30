@@ -1,0 +1,8 @@
+/bin.rar
+/bin.zip
+/bak.rar
+/bak.zip
+/release.rar
+/release.zip
+/www.rar
+/www.zip
