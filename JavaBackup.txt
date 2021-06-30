@@ -1,0 +1,5 @@
+/ROOT.rar
+/ROOT.zip
+/ROOT.war
+/ROOT.tar.gz
+/web.tar
