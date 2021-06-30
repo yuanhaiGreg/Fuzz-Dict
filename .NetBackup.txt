@@ -6,3 +6,5 @@
 /release.zip
 /www.rar
 /www.zip
+/web.rar
+/web.zip
